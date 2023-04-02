@@ -2,12 +2,6 @@
 
 This program suggests possible spelling corrections for input words based on a given text corpus.
 
-## Getting Started
-To get started with this program, you will need to clone this repository to your local machine:
-```
-git clone https://github.com/AGMach7/AutoCorrecter.git
-```
-
 ## Prerequisites
 This program requires Python 3 and the following libraries:
 - tkinter
