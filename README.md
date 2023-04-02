@@ -44,6 +44,3 @@ Enter a word in the "Enter a word" field and click the "Correct" button to see a
 
 ## Acknowledgments
 This program was inspired by the work of Younes Bensouda and his cours on NLP Specialization (the first assignment of Course 2): https://www.coursera.org/specializations/natural-language-processing.
-
-## Contributing
-Contributions to this project are welcome! If you would like to contribute, please submit a pull request.
