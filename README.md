@@ -2,17 +2,6 @@
 
 This program suggests possible spelling corrections for input words based on a given text corpus.
 
-## Prerequisites
-This program requires Python 3 and the following libraries:
-- tkinter
-- re
-- collections
-
-These can be installed using pip:
-```
-pip install tkinter collections re
-```
-
 ## Project Structure
 The project contains the following files and folders:
 
@@ -25,6 +14,17 @@ The project contains the following files and folders:
   - spelling_suggestions.py: This module contains functions for generating spelling suggestions.
   - app.py: This module contains the code for the user interface.
 - README.md: This file provides information about the project.
+
+## Prerequisites
+This program requires Python 3 and the following libraries:
+- tkinter
+- re
+- collections
+
+These can be installed using pip:
+```
+pip install tkinter collections re
+```
 
 ## Running the Program
 To run the program, navigate to the main directory and run the following command:
