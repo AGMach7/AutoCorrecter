@@ -5,15 +5,15 @@ This program suggests possible spelling corrections for input words based on a g
 ## Project Structure
 The project contains the following files and folders:
 
-- data/ This folder contains the unprocessed data used to train the model.
-  - shakespeare.txt: This file contains the unprocessed data to generate the spelling suggestions.
-- src/: This folder contains the source code for the project.
-  - data_preprocessing.py: This module contains functions for processing and cleaning the input data.
-  - string_manipulation.py: This module contains functions for manipulating strings.
-  - edite_letters.py: This module contains functions for generating all possible words that are one or two edits away from a given word.
-  - spelling_suggestions.py: This module contains functions for generating spelling suggestions.
-  - app.py: This module contains the code for the user interface.
-- README.md: This file provides information about the project.
+- `data/` This folder contains the unprocessed data used to train the model.
+  - `shakespeare.txt`: This file contains the unprocessed data to generate the spelling suggestions.
+- `src/`: This folder contains the source code for the project.
+  - `data_preprocessing.py`: This module contains functions for processing and cleaning the input data.
+  - `string_manipulation.py`: This module contains functions for manipulating strings.
+  - `edite_letters.py`: This module contains functions for generating all possible words that are one or two edits away from a given word.
+  - `spelling_suggestions.py`: This module contains functions for generating spelling suggestions.
+  - `app.py`: This module contains the code for the user interface.
+- `README.md`: This file provides information about the project.
 
 ## Prerequisites
 This program requires Python 3 and the following libraries:
